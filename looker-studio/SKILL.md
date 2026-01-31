@@ -1,5 +1,5 @@
 ---
-name: Looker Studio
+name: looker-studio
 description: |
   Skill for creating dashboards and calculated fields in Google Looker Studio (formerly Data Studio).
   Use when the user:
