@@ -26,4 +26,3 @@ All skills are released under the MIT License.
 [Muno Labs](https://munolabs.com/) is a technology company building AI-powered solutions. We believe in sharing knowledge and building community.
 
 **Contact:** hi@munolabs.com
-ji9
