@@ -7,6 +7,7 @@ A collection of AI skills we use at [Muno Labs](https://munolabs.com/) and share
 | Skill | Description | Story |
 |-------|-------------|-------|
 | [looker-studio](./looker-studio) | Complete guide for Google Looker Studio - calculated fields, formulas, PostgreSQL connection, and best practices | We have one of the best Looker Studio experts on our team — [Daniela](https://www.youtube.com/watch?v=_VxYaOn98-s) — and we've distilled her knowledge into this skill. Now you can build dashboards like a pro. |
+| [oss-project-review](./oss-project-review) | Evaluates open source project health (GitHub repo, npm/pip package, or URL). Generates a structured brief with traffic-light ratings per category. | Before adopting a new dependency, let the agent do the due diligence — community, activity, security, dependencies, license, and maintainer health in one structured review. |
 
 ## What are Skills?
 
